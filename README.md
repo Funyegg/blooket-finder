@@ -3,7 +3,7 @@ A NodeJS program for finding random blooket codes.
 # Usage
 1. Download NodeJS
 2. Run "node finder.js" in the blooket finder's home directory (with the command line). No external dependencies required.
-3. Wait. It may take a minute to find a code.
+3. Wait. It may take a minute or few to find a code.
 4. When the program ends, copy the last blooket code.
 5. Go to https://play.blooket.com/play and paste the blooket code. Have fun messing around.
 # How I did it
