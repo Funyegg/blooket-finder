@@ -45,7 +45,7 @@ function startReq(){
   
         //Handle success
         if(d.success){
-          startbot(id);
+          console.log(id);
           process.exit();
         } 
         //Handle failure
